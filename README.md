@@ -24,7 +24,7 @@ I am a detail-oriented problem solver building cool, practical software projects
 ## Contact
 
 - Email: https://thomassuebwicha.me/feedback
-- LinkedIn: https://www.linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/thomassuebwicha
 - Portfolio: https://thomassuebwicha.me
 
 ---
